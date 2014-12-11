@@ -57,7 +57,7 @@ Version of the *OCD* specification to use.
 Ex. for red in *RGB*:
 ```JSON
 	color: {
-		"format": "HSL",
+		"format": "RGB",
 		"data": {
 			"red": 255,
 			"green": 0,

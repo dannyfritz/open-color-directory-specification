@@ -1,6 +1,6 @@
 {
   "name": "open-color-directory-spec",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This specification describes the OCD format. OCD files are intended to be used for managing and sharing color palettes.",
   "repository": {
     "type": "git",
