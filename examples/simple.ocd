@@ -1,0 +1,13 @@
+{
+	"name": "simple",
+	"description": "A simple example to demonstrate the format.",
+	"authors": {
+		"name": "Danny Fritz"
+	},
+	"version": "1.0.0",
+	"ocd": "0.x",
+	"directories": [{
+		"name": "simple",
+		"colors": []
+	}]
+}

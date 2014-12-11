@@ -1,0 +1,74 @@
+{
+	"name": "rainbow",
+	"description": "An example OCD to demonstrate the format.",
+	"authors": {
+		"name": "Danny Fritz"
+	},
+	"version": "1.0.0",
+	"ocd": "0.x",
+	"directories": [{
+		"name": "taste it",
+		"colors": [
+			{
+				"name": "red",
+				"format": "HSL",
+				"data": {
+					"hue": 0,
+					"saturation": 1.0,
+					"lightness": 0.5
+				},
+				"alpha": 1.0
+			},
+			{
+				"name": "orange",
+				"format": "HSL",
+				"data": {
+					"hue": 30,
+					"saturation": 1.0,
+					"lightness": 0.5
+				},
+				"alpha": 1.0
+			},
+			{
+				"name": "yellow",
+				"format": "HSL",
+				"data": {
+					"hue": 60,
+					"saturation": 1.0,
+					"lightness": 0.5
+				},
+				"alpha": 1.0
+			},
+			{
+				"name": "green",
+				"format": "HSL",
+				"data": {
+					"hue": 120,
+					"saturation": 1.0,
+					"lightness": 0.5
+				},
+				"alpha": 1.0
+			},
+			{
+				"name": "blue",
+				"format": "HSL",
+				"data": {
+					"hue": 240,
+					"saturation": 1.0,
+					"lightness": 0.5
+				},
+				"alpha": 1.0
+			},
+			{
+				"name": "purple",
+				"format": "HSL",
+				"data": {
+					"hue": 280,
+					"saturation": 1.0,
+					"lightness": 0.5
+				},
+				"alpha": 1.0
+			}
+		]
+	}]
+}
