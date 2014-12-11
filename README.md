@@ -2,7 +2,7 @@
 
 An open source color palette format to make the world a more colorful and happier place.
 
-![Image of Yaktocat](ocd.png)
+![Image of colors](ocd.png)
 
 
 ## Specification
@@ -21,12 +21,12 @@ Bring better color palette and just color management tooling to Node and the web
 
 ### Palette Conventions
 
-If there is a convention for creating palettes, then it would be easy to swap out palettes and see what different themes would look like in your project if the.
+If there is a convention for creating palettes, then it would be easy to swap out palettes and see what different themes would look like.
 
 ### Management
 
-This allows for better management of palettes through versioning. If you are maintaining a color palette and want to make a drastic change, bump the major version. That way, nobody will freak out that you broke everything when you want the package to take a new direction for its future.
+This allows for better management of palettes through versioning. If you are maintaining a color palette and want to make a drastic change, bump the major version. That way, nobody will freak out that you broke everything when you want your palette to take a radical new direction.
 
 ### Cohesion
 
-Use a single palette package throughout your projects to keep consistent branding. Update the package easily when changes are made upstream.
+Use a single palette throughout your projects to keep consistent branding. Update the palette easily when changes are made upstream.
