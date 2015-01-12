@@ -1,5 +1,7 @@
 # Open Color Directory (.ocd)
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dannyfritz/open-color-directory-specification?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An open source color palette format to make the world a more colorful and happier place.
 
 ![Image of colors](ocd.png)
